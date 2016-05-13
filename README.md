@@ -11,25 +11,25 @@ Awesome list of Open Source projects looking for help.
 
 ## Code
 
-* [Beeware/Batavia ](https://github.com/pybee/batavia/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) *(Python, JavaScript & HTML)*
-* [Beeware/Voc ](https://github.com/pybee/voc/issues?q=is%3Aissue+is%3Aopen+label%3Aup-fo-grabs) *(Python & Java)*
+* [Beeware/Batavia](https://github.com/pybee/batavia/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) *(Python, JavaScript & HTML)*
+* [Beeware/Voc](https://github.com/pybee/voc/issues?q=is%3Aissue+is%3Aopen+label%3Aup-fo-grabs) *(Python & Java)*
 * [FredHutch Cancer Research Center/Oncoscape](https://github.com/FredHutch/Oncoscape/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) *(JavaScript & R)*
 * [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core/wiki/Help-Wanted) *(C++, C, HTML, Python & PowerShell)*
 * [NYTimes/ice](https://github.com/NYTimes/ice/issues/126) *(JavaScript, PHP & CSS)*
 
 ## Translation
-* [MatterMost - Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
-* [MatterMost - Platform](https://github.com/mattermost/platform/issues/2295) *(Traditional Chinese)*
-* [MatterMost - Platform](https://github.com/mattermost/platform/issues/2572) *(Italian)*
-* [MatterMost - Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
-* [MatterMost - Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
+* [MatterMost/Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
+* [MatterMost/Platform](https://github.com/mattermost/platform/issues/2295) *(Traditional Chinese)*
+* [MatterMost/Platform](https://github.com/mattermost/platform/issues/2572) *(Italian)*
+* [MatterMost/Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
+* [MatterMost/Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
 
 ## Other
 
-* http://up-for-grabs.net
-* http://codefordc.org/projects/helpwanted.html
-* http://www.lookingforpullrequests.com
-* https://github.com/corylanou/oss-helpwanted
+* <http://up-for-grabs.net>
+* <http://codefordc.org/projects/helpwanted.html>
+* <http://www.lookingforpullrequests.com>
+* <https://github.com/corylanou/oss-helpwanted>
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
