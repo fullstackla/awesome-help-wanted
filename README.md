@@ -1,11 +1,12 @@
 # Awesome Help Wanted
 Awesome list of Open Source projects looking for help.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://www.maxcdn.com/?utm_source=awesome-help-wanted-github&amp;utm_medium=badge&amp;utm_campaign=readme"><img src="https://img.shields.io/badge/sponsored%20by-MaxCDN-orange.svg" alt="sponsored by: MaxCDN"></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/jdorfman/awesome-help-wanted.svg?branch=master)](https://travis-ci.org/jdorfman/awesome-help-wanted) <a href="https://www.maxcdn.com/?utm_source=awesome-help-wanted-github&amp;utm_medium=badge&amp;utm_campaign=readme"><img src="https://img.shields.io/badge/sponsored%20by-MaxCDN-orange.svg" alt="sponsored by: MaxCDN"></a>
 
 ## TOC
 
 * [Code](#code)
+* [Funding](#funding)
 * [Translation](#translation)
 * [Other](#other)
 
@@ -24,9 +25,10 @@ Awesome list of Open Source projects looking for help.
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
 
-## Funding/Sponsorship
+## Funding
 
 * [BeeWare](https://pybee.org) *Looking to fund full time development & mentoring activities*
+* [FredHutch Cancer Research Center](https://secure2.convio.net/fhcrc/site/Donation2?df_id=5340&5340.donation=form1) *Make a powerful impact by funding solid tumor translational research.*
 
 ## Other
 
