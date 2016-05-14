@@ -24,6 +24,10 @@ Awesome list of Open Source projects looking for help.
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
 
+## Funding/Sponsorship
+
+* [BeeWare](https://pybee.org) *Looking to fund full time development & mentoring activities*
+
 ## Other
 
 * <http://up-for-grabs.net>
