@@ -11,8 +11,8 @@ Awesome list of Open Source projects looking for help.
 
 ## Code
 
-* [Beeware/Batavia](https://github.com/pybee/batavia/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) *(Python, JavaScript & HTML)*
-* [Beeware/Voc](https://github.com/pybee/voc/issues?q=is%3Aissue+is%3Aopen+label%3Aup-fo-grabs) *(Python & Java)*
+* [Beeware/Batavia](https://github.com/pybee/batavia/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) *(Python, JavaScript & HTML; [First time contribution guide](https://github.com/pybee/batavia/wiki/Your-first-Batavia-contribution))*
+* [Beeware/Voc](https://github.com/pybee/voc/issues?q=is%3Aissue+is%3Aopen+label%3Aup-fo-grabs) *(Python & Java; [First time contribution guide](https://github.com/pybee/voc/wiki/Your-first-VOC-contribution))*
 * [FredHutch Cancer Research Center/Oncoscape](https://github.com/FredHutch/Oncoscape/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) *(JavaScript & R)*
 * [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core/wiki/Help-Wanted) *(C++, C, HTML, Python & PowerShell)*
 * [NYTimes/ice](https://github.com/NYTimes/ice/issues/126) *(JavaScript, PHP & CSS)*
