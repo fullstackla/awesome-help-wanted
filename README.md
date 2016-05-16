@@ -17,6 +17,7 @@ Awesome list of Open Source projects looking for help.
 * [FredHutch Cancer Research Center/Oncoscape](https://github.com/FredHutch/Oncoscape/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) *(JavaScript & R)*
 * [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core/wiki/Help-Wanted) *(C++, C, HTML, Python & PowerShell)*
 * [NYTimes/ice](https://github.com/NYTimes/ice/issues/126) *(JavaScript, PHP & CSS)*
+* [Buunguyen/octotree](https://github.com/buunguyen/octotree/issues/22) *(Javascript, CSS & HTML)*
 
 ## Translation
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
