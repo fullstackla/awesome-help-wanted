@@ -37,6 +37,7 @@ Awesome list of Open Source projects looking for help.
 * <http://codefordc.org/projects/helpwanted.html>
 * <http://www.lookingforpullrequests.com>
 * <https://github.com/corylanou/oss-helpwanted>
+* <http://www.firsttimersonly.com>
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
