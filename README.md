@@ -39,6 +39,7 @@ Awesome list of Open Source projects looking for help.
 * <https://github.com/corylanou/oss-helpwanted>
 * <http://www.firsttimersonly.com>
 * [http://issuehub.io/](http://issuehub.io/?label%5B%5D=help+wanted&language=)
+* <https://github.com/hoodiehq/camp/issues>
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
