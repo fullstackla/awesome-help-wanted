@@ -25,6 +25,7 @@ Awesome list of Open Source projects looking for help.
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2572) *(Italian)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
+* [Tunnelblick](https://tunnelblick.net/cLocalizeTranslate.html) *(Afrikaans, Japanese, Chinese)*
 
 ## Funding
 
