@@ -28,6 +28,10 @@ Awesome list of Open Source projects looking for help.
 ## Documentation
 
 * [h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview/issues/268)
+* [mayflower/puppet-php](https://github.com/mayflower/puppet-php/issues/217)
+* [zulip/zulip](https://github.com/zulip/zulip/issues/1426)
+* [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub/issues/632)
+* [ethereum/solidity](https://github.com/ethereum/solidity/issues/676)
 
 ## Translation
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
