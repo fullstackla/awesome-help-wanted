@@ -32,6 +32,7 @@ Awesome list of Open Source projects looking for help.
 * [zulip/zulip](https://github.com/zulip/zulip/issues/1426)
 * [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub/issues/632)
 * [ethereum/solidity](https://github.com/ethereum/solidity/issues/676)
+* [hoodiehq/documentation](https://github.com/hoodiehq/documentation/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
 ## Translation
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
