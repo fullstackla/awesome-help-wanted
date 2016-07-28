@@ -7,6 +7,7 @@ Awesome list of Open Source projects looking for help.
 
 * [Code](#code)
 * [Curation](#curation)
+* [Documentation](#documentation)
 * [Funding](#funding)
 * [Translation](#translation)
 * [Other](#other)
@@ -23,6 +24,10 @@ Awesome list of Open Source projects looking for help.
 ## Curation
 
 * [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+
+## Documentation
+
+* [h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview/issues/268)
 
 ## Translation
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
