@@ -3,7 +3,7 @@ Awesome list of Open Source projects looking for help.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/jdorfman/awesome-help-wanted.svg?branch=master)](https://travis-ci.org/jdorfman/awesome-help-wanted) <a href="https://www.maxcdn.com/?utm_source=awesome-help-wanted-github&amp;utm_medium=badge&amp;utm_campaign=readme"><img src="https://img.shields.io/badge/sponsored%20by-MaxCDN-orange.svg" alt="sponsored by: MaxCDN"></a>
 
-## TOC
+## Table of contents
 
 * [Code](#code)
 * [Curation](#curation)
