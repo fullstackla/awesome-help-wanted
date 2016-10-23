@@ -20,6 +20,7 @@ Awesome list of Open Source projects looking for help.
 * [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core/wiki/Help-Wanted) *(C++, C, HTML, Python & PowerShell)*
 * [NYTimes/ice](https://github.com/NYTimes/ice/issues/126) *(JavaScript, PHP & CSS)*
 * [Buunguyen/octotree](https://github.com/buunguyen/octotree/issues/22) *(JavaScript, CSS & HTML)*
+* [if me](https://github.com/julianguyen/ifme) *(Ruby on Rails, JavaScript, CSS & HTML)*
 
 ## Curation
 
