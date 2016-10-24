@@ -58,6 +58,7 @@ Awesome list of Open Source projects looking for help.
 * [http://issuehub.io/](http://issuehub.io/?label%5B%5D=help+wanted&language=)
 * <https://github.com/hoodiehq/camp/issues>
 * [Your First Pull Request](http://yourfirstpr.github.io/)
+* [Code Triage](https://www.codetriage.com/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
