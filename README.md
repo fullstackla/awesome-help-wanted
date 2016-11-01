@@ -12,8 +12,10 @@ This list serves two purposes:
 
 * [Getting Fundraising](#funding)
 
-## Health
+## Learning code
+* [Exercism.io](http://exercism.io/) 
 
+## Health
 * [FredHutch Cancer Research Center/Oncoscape](https://github.com/FredHutch/Oncoscape/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) *(JavaScript & R)*
 * [if me](https://github.com/julianguyen/ifme) *(Ruby on Rails, JavaScript, CSS & HTML)*
 
