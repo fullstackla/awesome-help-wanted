@@ -1,64 +1,30 @@
-# Awesome Help Wanted
-Awesome list of Open Source projects looking for help.
+# Awesome Tools & Sites (That Allow You To Make & Submit Changes If You Want)
+
+This list serves two purposes:
+1. Awesome list of Open Source tools and applications to use (and support with code, design and translation contributions).
+2. Awesome list of tools and applications that we support because it is Open Source.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/fullstackla/awesome-help-wanted.svg?branch=master)](https://travis-ci.org/jdorfman/awesome-help-wanted) <a href="https://www.stickermule.com"><img src="https://img.shields.io/badge/sponsored%20by-Sticker%20Mule-orange.svg" alt="sponsored by: Sticker Mule"></a>
 
 ## Table of contents
 
-* [Code](#code)
-* [Curation](#curation)
-* [Documentation](#documentation)
-* [Funding](#funding)
-* [Translation](#translation)
-* [Other](#other)
+* [Getting Fundraising](#funding)
 
-## Code
+## Health
 
-* [Beeware/Batavia](https://github.com/pybee/batavia/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) *(Python, JavaScript & HTML; [First time contribution guide](https://github.com/pybee/batavia/wiki/Your-first-Batavia-contribution))*
-* [Beeware/Voc](https://github.com/pybee/voc/issues?q=is%3Aissue+is%3Aopen+label%3Aup-fo-grabs) *(Python & Java; [First time contribution guide](https://github.com/pybee/voc/wiki/Your-first-VOC-contribution))*
 * [FredHutch Cancer Research Center/Oncoscape](https://github.com/FredHutch/Oncoscape/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) *(JavaScript & R)*
-* [OSVR/OSVR-Core](https://github.com/OSVR/OSVR-Core/wiki/Help-Wanted) *(C++, C, HTML, Python & PowerShell)*
-* [NYTimes/ice](https://github.com/NYTimes/ice/issues/126) *(JavaScript, PHP & CSS)*
-* [Buunguyen/octotree](https://github.com/buunguyen/octotree/issues/22) *(JavaScript, CSS & HTML)*
 * [if me](https://github.com/julianguyen/ifme) *(Ruby on Rails, JavaScript, CSS & HTML)*
 
-## Curation
-
-* [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-
-## Documentation
-
-* [h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview/issues/268)
-* [mayflower/puppet-php](https://github.com/mayflower/puppet-php/issues/217)
+## Chat
 * [zulip/zulip](https://github.com/zulip/zulip/issues/1426)
-* [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub/issues/632)
-* [ethereum/solidity](https://github.com/ethereum/solidity/issues/676)
-* [hoodiehq/documentation](https://github.com/hoodiehq/documentation/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-
-## Translation
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2447) *(Korean)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2295) *(Traditional Chinese)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2572) *(Italian)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
+
+# VPN
 * [Tunnelblick](https://tunnelblick.net/cLocalizeTranslate.html) *(Afrikaans, Japanese, Chinese)*
-
-## Funding
-
-* [BeeWare](https://pybee.org) *Looking to fund full time development & mentoring activities*
-* [FredHutch Cancer Research Center](https://secure2.convio.net/fhcrc/site/Donation2?df_id=5340&5340.donation=form1) *Make a powerful impact by funding solid tumor translational research.*
-
-## Other
-
-* <http://up-for-grabs.net>
-* <http://codefordc.org/projects/helpwanted.html>
-* <http://www.lookingforpullrequests.com>
-* <https://github.com/corylanou/oss-helpwanted>
-* <http://www.firsttimersonly.com>
-* [http://issuehub.io/](http://issuehub.io/?label%5B%5D=help+wanted&language=)
-* <https://github.com/hoodiehq/camp/issues>
-* [Your First Pull Request](http://yourfirstpr.github.io/)
-* [Code Triage](https://www.codetriage.com/)
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
