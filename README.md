@@ -1,7 +1,9 @@
-# Awesome Tools & Sites (That Allow You To Make & Submit Changes If You Want)
+# Awesome Free Tools & Sites
 
 This list serves two purposes:
+
 1. Awesome list of Open Source tools and applications to use (and support with code, design and translation contributions).
+
 2. Awesome list of tools and applications that we support because it is Open Source.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/fullstackla/awesome-help-wanted.svg?branch=master)](https://travis-ci.org/jdorfman/awesome-help-wanted) <a href="https://www.stickermule.com"><img src="https://img.shields.io/badge/sponsored%20by-Sticker%20Mule-orange.svg" alt="sponsored by: Sticker Mule"></a>
