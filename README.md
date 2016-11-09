@@ -30,6 +30,9 @@ This list serves two purposes:
 # VPN
 * [Tunnelblick](https://tunnelblick.net/cLocalizeTranslate.html) *(Afrikaans, Japanese, Chinese)*
 
+# Dev Tools
+* [EditorConfig/Notepad++](https://github.com/editorconfig/editorconfig/issues/87) *(C++)*
+
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
