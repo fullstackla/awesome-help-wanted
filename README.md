@@ -27,10 +27,10 @@ This list serves two purposes:
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2420) *(Czech)*
 * [MatterMost/Platform](https://github.com/mattermost/platform/issues/2444) *(Japanese)*
 
-# VPN
+## VPN (Virtual Private Network)
 * [Tunnelblick](https://tunnelblick.net/cLocalizeTranslate.html) *(Afrikaans, Japanese, Chinese)*
 
-# Dev Tools
+## Dev Tools
 * [EditorConfig/Notepad++](https://github.com/editorconfig/editorconfig/issues/87) *(C++)*
 
 ## More Awesome Lists
